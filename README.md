@@ -1,1 +1,1 @@
-# super-awesome-insurabce
+# super-awesome-insurance
