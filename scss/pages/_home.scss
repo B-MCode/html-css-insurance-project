@@ -1,0 +1,68 @@
+@use "../abstract/variables" as*;
+
+/* Main */
+.main-container{
+    /* Main article: Your personal financial safety net online*/
+    .main-container-article{
+        padding: 1em;
+        .article-info{
+            display: flex;
+            .info-title{
+                color: white;
+                font-size: 3rem;
+            }
+        }
+        .container-text{
+            margin-top: 1.5rem;
+            font-size: .9rem;
+            line-height: 1.5em;
+        }
+    }
+    /*Main article:About us*/
+    .container-article{
+        background-color:$colordos;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        .article-title{
+            color:white;
+            font-size: 3rem;
+            font-weight:1100 ;
+            padding: 3.5rem;
+        }
+        .article-text{
+            padding:0 2rem;
+            text-align: center;
+        }
+        .article-text:last-child{
+            margin-top: 2rem;
+            margin-bottom: 5rem;
+        }
+    }
+    @include big-screen{/*main-container*/
+        position: relative;
+        .main-container-article{
+            height: 80vh;
+            padding: 5em;
+            display: flex;
+            .article-info{
+                width: 150em;
+                height: 15em;
+                display: flex;
+                flex-direction:column;
+                .info-title{
+                    height: 50%;
+                    width: 8em;
+                }
+            }
+            .container-text{
+                margin-top: 0rem;
+            }
+        }
+        .container-article{
+            padding: 0 15em;
+            height: 80vh;
+            padding-top: 10em;
+        }
+    }
+}

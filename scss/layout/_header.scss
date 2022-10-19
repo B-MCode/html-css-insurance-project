@@ -1,0 +1,88 @@
+@use "../abstract/variables" as*;
+.top-header{
+    .header-article{
+        background-color: $colortres;
+        padding: .8em;
+        padding-top: 2.5em;
+        height: 28em;
+        padding-bottom: 0;
+        .article-title{
+            font-size: 1.8em;
+        }
+        .article-text{
+            padding-top: 1.5em;
+            font-size: 0.6em;
+            line-height: 1.5em;
+            letter-spacing: 0.07em;
+            max-width: 95%;
+            
+            .white-text{
+                color: white;
+            }
+        }
+        .header-img{
+            padding-top: 1.75em;
+            width: 100%;
+        }
+    }
+   /* Box learn more & boc joint today*/
+    .header-container{
+        .container-box{
+            height: 30vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            
+            .box-text{ /* yellow & orange text*/
+                font-size: .6em;
+                letter-spacing: 0.05em;
+            }
+           .box-title{ /* yellow & orange title*/
+                line-height: 1.8em;
+                letter-spacing: 0.05em;
+                font-size: 1.5em;
+                color: white;
+            }
+        }
+        .learn{ /*orange box*/
+            background-color: $coloruno;
+        }
+        .join{ /*yellow box*/
+            background-color: $colordos;
+        }
+    }
+    @include big-screen { /*top-header*/
+        height: 85vh;
+        display: flex;
+        .header-article{
+            height: 100%;
+            width: 50%;
+            padding-top: 0;
+            position:relative;
+            padding-left: 5em;
+
+            .article-title{
+                padding-top: 1.5em;
+                max-width: 60%;
+            }
+            .article-text{
+                max-width: 60%;
+            }
+            .header-img{
+                padding-top: 0;
+                width: 60%;
+                position:absolute;
+                right: 0;
+                bottom: 0;
+            }
+        }
+        .header-container{
+            width: 50%;
+            .container-box{
+                height: 50%;
+                width: 100%;
+            }
+        }
+    }
+}
