@@ -1,3 +1,11 @@
+Östersund 
+Marcus Nilsson & Pontus Happe Sollander & Pontus Ekström
+
+https://bossemarcus.github.io/superawesomeinsurance/
+
+https://bossemarcus.github.io/superawesomeinsurance/contact
+______________________________________________________________________
+
 # Insurance Project
 Deadline: 20e Oktober.
 
