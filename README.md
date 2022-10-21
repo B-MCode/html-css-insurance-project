@@ -1,9 +1,10 @@
 Östersund 
 Marcus Nilsson & Pontus Happe Sollander & Pontus Ekström
 
-https://bossemarcus.github.io/superawesomeinsurance/
+https://bossemarcus.github.io/super-awesome-insurance/
 
-https://bossemarcus.github.io/superawesomeinsurance/contact
+
+https://bossemarcus.github.io/super-awesome-insurance/contact
 ______________________________________________________________________
 
 # Insurance Project
