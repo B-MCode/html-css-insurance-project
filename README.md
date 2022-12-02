@@ -1,5 +1,4 @@
-Östersund 
-Marcus Nilsson & Pontus Happe Sollander & Pontus Ekström
+Första uppgiften i skolan CSS / HTML 
 
 https://bossemarcus.github.io/super-awesome-insurance/
 
