@@ -1,9 +1,11 @@
 Första uppgiften i skolan CSS / HTML 
 
-https://bossemarcus.github.io/super-awesome-insurance/
+https://bossemarcus.github.io/html-css-insurance-project/
+
+https://bossemarcus.github.io/html-css-insurance-project/contact.html
 
 
-https://bossemarcus.github.io/super-awesome-insurance/contact
+
 ______________________________________________________________________
 
 # Insurance Project
