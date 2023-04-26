@@ -60,7 +60,4 @@ Deltagit i ett inlämnat grupparbetet som motsvarar designen i mockups. Vidare s
 *VG-nivå*
 Uppfyller kraven för godkänt samt visar reflekterande förmåga kring ovanstående samtalsfrågor. Reflekterande förmåga avser att kunna lyfta fördjupande frågor kring områden som har hanterats under kursens gång med stöd från samtalsfrågorna.
 
-## Återkoppling
-
-Sker via ominus senast 3 veckor efter avslutad kurs i samband med kursbetyget.
 
