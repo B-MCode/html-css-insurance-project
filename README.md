@@ -1,9 +1,10 @@
 Första uppgiften i skolan CSS / HTML 
 First school project ( HTML , CSS(SASS) , Semantic elements, SEO optimization:
 
-https://bossemarcus.github.io/html-css-insurance-project/
 
-https://bossemarcus.github.io/html-css-insurance-project/contact.html
+Your site is live at https://bomar-dev.github.io/html-css-insurance-project/
+
+
 
 
 
